@@ -8,4 +8,6 @@ task :bimble do
   end
 end
 
-task :default => :bimble
+task :default do
+  true
+end

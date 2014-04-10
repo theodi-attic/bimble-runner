@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+- 2.1.0
+deploy:
+  provider: heroku
+  api_key:
+    secure: CK+CfbXTuwfhlBTWXSXB4qMNST56DzBG7FLxg7mBD7yFcgR6BuN2hRyQGbiJTg4ncwvlX/1zrOeFpdjc7CAniVFIqLjJ07FTWzHZfx4rxz3PoTrI6sjApTM24Un+F4TSG8F0Z0YxwLykd5MMU3PfwMkNrvv1V/D6TWOO9gbboGE=
+  app: odi-bimble-runner
+  on:
+    repo: theodi/bimble-runner
