@@ -1,7 +1,6 @@
 require 'yaml'
 
 def bimble
-  puts `gem install bimble`
   YAML.load_file('repos.yml').each do |repo|
     puts repo
     puts `bimble git@github.com:#{repo}.git`
