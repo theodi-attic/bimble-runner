@@ -1,31 +1,32 @@
 - theodi/open-orgn-services
-- theodi/services-manager
-- theodi/member-directory
-- theodi/office-calendar
-- theodi/dashboards
-- theodi/git-data-viewer
-- theodi/percentervals
-- theodi/pinboard-harvester
-- theodi/open-data-certificate
-- theodi/bimble
-- theodi/forkbomb
-- theodi/alternate-rails
-- theodi/signonotron2
-- theodi/static
-- theodi/panopticon
-- theodi/publisher
-- theodi/asset-manager
-- theodi/content_api
-- theodi/alternate-rails
-- theodi/asset-manager
-- theodi/buildmemes
-- theodi/csv-profiler
-- theodi/data_kitten
-- theodi/frontend-www
-- theodi/juvia_rails
-- theodi/metrics-api
-- theodi/odi_content_models
-- theodi/odidown
-- theodi/odlifier
-- theodi/csvlint
-- theodi/csvlint.rb
+# - theodi/services-manager
+# - theodi/member-directory
+# - theodi/office-calendar
+# - theodi/dashboards
+# - theodi/git-data-viewer
+# - theodi/percentervals
+# - theodi/pinboard-harvester
+# - theodi/open-data-certificate
+# - theodi/bimble
+# - theodi/bimble-runner
+# - theodi/forkbomb
+# - theodi/alternate-rails
+# - theodi/signonotron2
+# - theodi/static
+# - theodi/panopticon
+# - theodi/publisher
+# - theodi/asset-manager
+# - theodi/content_api
+# - theodi/alternate-rails
+# - theodi/asset-manager
+# - theodi/buildmemes
+# - theodi/csv-profiler
+# - theodi/data_kitten
+# - theodi/frontend-www
+# - theodi/juvia_rails
+# - theodi/metrics-api
+# - theodi/odi_content_models
+# - theodi/odidown
+# - theodi/odlifier
+# - theodi/csvlint
+# - theodi/csvlint.rb
