@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-ruby "2.1.0"
-#ruby-gemset=bimble-runner
+ruby "2.1.2"
 
 gem "rake"
 gem "bimble"
