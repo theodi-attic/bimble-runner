@@ -1,3 +1,10 @@
 language: ruby
 rvm:
 - 2.1.4
+deploy:
+  provider: heroku
+  api_key:
+    secure: AoccKMpfiqnXQ9txOHoCyenvn1l8uLP9VPOPSCbLtwiDtas+unuGVak65IE/f2LzO0RhWJec80GiMDON2/CX8RnRp6FjKAL4DENNHb6ZNs006XG5eHmLI4QvkcC/IQrDB7HeFC4tSd+XQxTcI95NaNMudvFdvUzV/+Q5SIbhsYg=
+  app: bimble-runner
+  on:
+    repo: theodi/bimble-runner
