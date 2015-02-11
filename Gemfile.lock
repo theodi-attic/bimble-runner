@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.3.6)
+    addressable (2.3.7)
     bimble (1.0.3)
       dotenv
       git
@@ -14,7 +14,7 @@ GEM
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
     git (1.2.9.1)
-    github_api (0.12.2)
+    github_api (0.12.3)
       addressable (~> 2.3)
       descendants_tracker (~> 0.0.4)
       faraday (~> 0.8, < 0.10)
