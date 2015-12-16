@@ -26,7 +26,7 @@ GEM
     jwt (1.5.2)
     launchy (2.4.3)
       addressable (~> 2.3)
-    memoist (0.13.0)
+    memoist (0.14.0)
     mini_portile2 (2.0.0)
     multi_json (1.11.2)
     multi_xml (0.5.5)
