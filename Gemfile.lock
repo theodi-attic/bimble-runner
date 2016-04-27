@@ -26,7 +26,7 @@ GEM
     launchy (2.4.3)
       addressable (~> 2.3)
     memoist (0.14.0)
-    multi_json (1.11.2)
+    multi_json (1.11.3)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     oauth2 (1.1.0)
