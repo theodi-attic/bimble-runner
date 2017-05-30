@@ -1,9 +1,5 @@
 - theodi/open-orgn-services
 - theodi/odi-metrics-tasks
-- theodi/services-manager
-- theodi/member-directory
-- theodi/office-calendar
-- theodi/dashboards
 - theodi/git-data-viewer
 - theodi/git-data-publisher
 - theodi/percentervals
@@ -11,7 +7,6 @@
 - theodi/open-data-certificate
 - theodi/bimble
 - theodi/bimble-runner
-- theodi/forkbomb
 - theodi/alternate-rails
 - theodi/signonotron2
 - theodi/static
@@ -25,9 +20,7 @@
 - theodi/data_kitten
 - theodi/frontend-www
 - theodi/juvia_rails
-- theodi/metrics-api
 - theodi/odi_content_models
 - theodi/odidown
 - theodi/odlifier
-- theodi/csvlint
 - theodi/csvlint.rb
